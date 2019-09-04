@@ -4,3 +4,4 @@ This is my first commit, i am currectly testing this on Wednesday 4th September 
 
 Testing for the first time.
 ---
+Going through Step 4 of the instructions
